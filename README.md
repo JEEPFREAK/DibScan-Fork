@@ -1,4 +1,5 @@
-# DibScan - Recon Tool
+# DibScan-Fork - Recon Tool
+## Forked 08/16/2024
 
 Welcome to **DibScan**, a versatile reconnaissance tool that automates network scanning and directory fuzzing using RustScan, Nmap, and FFUF.
 
